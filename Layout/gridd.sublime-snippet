@@ -8,6 +8,6 @@
 	<div class="ui-block-e">${5:column5}</div>
 </div>]]></content>
 	<tabTrigger>jqmgridd</tabTrigger>
-	<description>jQuery Mobile: Five column grid</description>
+	<description>jQuery Mobile 1.4: Five column grid</description>
 	<scope>text.html</scope>
 </snippet>

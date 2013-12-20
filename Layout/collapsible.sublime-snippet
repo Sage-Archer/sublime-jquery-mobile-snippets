@@ -6,6 +6,7 @@
 </div>
 ]]></content>
 	<tabTrigger>jqmcollapsible</tabTrigger>
-	<description>jQuery Mobile: Collapsible content markup</description>
+	<description>jQuery Mobile 1.4: Collapsible content markup</description>
 	<scope>text.html</scope>
 </snippet>
+
