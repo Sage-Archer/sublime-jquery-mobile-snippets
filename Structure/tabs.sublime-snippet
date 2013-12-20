@@ -1,0 +1,25 @@
+<snippet>
+	<content><![CDATA[
+		<div data-role="tabs" id="${1:tabs}">
+		  <div data-role="navbar">
+		    <ul>
+		      <li><a href="#${2:one}" data-ajax="false">${2:one}</a></li>
+		      <li><a href="#${3:two}" data-ajax="false">${3:two}</a></li>
+  		      <li><a href="#${4:three}" data-ajax="false">${4:three}</a></li>
+		    </ul>
+		  </div>
+		  <div id="${2:one}">
+		    <h1>First tab contents</h1>
+		  </div>
+		  <div id="${3:two}">
+		    <h1>Second tab contents</h1>
+		  </div>
+		  <div id="${4:three}">
+		    <h1>Third tab contents</h1>
+		  </div>
+		</div>		
+]]></content>
+	<tabTrigger>jqmtabs</tabTrigger>
+	<description>jQuery Mobile 1.4: Tabs</description>
+	<scope>text.html</scope>
+</snippet>
