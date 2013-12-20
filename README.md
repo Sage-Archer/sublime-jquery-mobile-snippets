@@ -7,7 +7,7 @@ Revised jQuery Mobile Snippets for Sublime Text, updated to jQuery Mobile versio
 * Daniel van der Ende ([danielvdende](https://github.com/danielvdende))
 
 ## Acknowledgements
-We would like to thank @devtellect for providing the basis upon which we could build these updated snippets for jQuery Mobile 1.4
+We would like to thank [devtellect](https://github.com/devtellect) for providing the basis upon which we could build these updated snippets for jQuery Mobile 1.4
 
 ## License
 These snippets are licensed under the MIT license (https://raw.github.com/MobPro/Sublime-jQuery-Mobile-Snippets/master/LICENSE)
