@@ -1,10 +1,10 @@
 <snippet>
 	<content><![CDATA[
-<article data-role="content">
+<article role="main" class="ui-content">
 	<p>${1:Content}</p>
 </article><!-- /content -->
 ]]></content>
 	<tabTrigger>jqmcontent</tabTrigger>
-	<description>jQuery Mobile: Semantic content</description>
+	<description>jQuery Mobile 1.4: Semantic content</description>
 	<scope>text.html</scope>
 </snippet>

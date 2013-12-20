@@ -1,12 +1,13 @@
 <snippet>
 	<content><![CDATA[
 <header data-role="header" data-position="inline">
-	<a href="#" data-icon="delete">Cancel</a>
+    <a href="#" class="ui-btn-left ui-btn ui-btn-inline ui-mini ui-corner-all ui-btn-icon-left ui-icon-delete">Cancel</a>
 	<h1>${1:Header}</h1>
-	<a href="#" data-icon="gear">Help</a>
+	<button class="ui-btn-right ui-btn ui-btn-b ui-btn-inline ui-mini ui-corner-all ui-btn-icon-right ui-icon-check">Save
+</button>
 </header><!-- /header -->
 ]]></content>
 	<tabTrigger>jqmheader:i</tabTrigger>
-	<description>jQuery Mobile: Semantic inline header</description>
+	<description>jQuery Mobile 1.4: Semantic inline header</description>
 	<scope>text.html</scope>
 </snippet>

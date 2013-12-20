@@ -5,6 +5,6 @@
 </header><!-- /header -->
 ]]></content>
 	<tabTrigger>jqmheader</tabTrigger>
-	<description>jQuery Mobile: Semantic header</description>
+	<description>jQuery Mobile 1.4: Semantic header</description>
 	<scope>text.html</scope>
 </snippet>

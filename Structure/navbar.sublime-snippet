@@ -1,8 +1,14 @@
 <snippet>
 	<content><![CDATA[
-<nav data-role="navbar">${1}</nav>
+<div data-role="navbar">
+    <ul>
+        <li><a href="#" class="ui-btn-active">${1}</a></li>
+        <li><a href="#">${2}</a></li>
+        <li><a href="#">${3}</a></li>
+    </ul>
+</div><!-- /navbar -->
 ]]></content>
 	<tabTrigger>jqmnavbar</tabTrigger>
-	<description>jQuery Mobile: Navigation bar</description>
+	<description>jQuery Mobile 1.4: Navigation bar</description>
 	<scope>text.html</scope>
 </snippet>

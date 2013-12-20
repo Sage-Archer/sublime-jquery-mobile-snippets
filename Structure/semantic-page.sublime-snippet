@@ -4,7 +4,7 @@
 	<header data-role="header">
 		<h1>${2:Header}</h1>
 	</header><!-- /header -->
-	<article data-role="content">
+	<article role="main" class="ui-content">
 		<p>${3:Content}</p>
 	</article><!-- /content -->
 	<footer data-role="footer">
@@ -13,6 +13,6 @@
 </section><!-- /page -->
 ]]></content>
 	<tabTrigger>jqmpage</tabTrigger>
-	<description>jQuery Mobile: Basic semantic page</description>
+	<description>jQuery Mobile 1.4: Basic semantic page</description>
 	<scope>text.html</scope>
 </snippet>
