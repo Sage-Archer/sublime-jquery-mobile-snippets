@@ -2,6 +2,6 @@
 	<content><![CDATA[home
 		]]></content>
 		<tabTrigger>jqmsvg:home</tabTrigger>
-		<description>jQuery Mobile 1.4: homeicon svg</description>
+		<description>jqm1.4: homeicon svg</description>
 		<scope>text.html</scope>
 	</snippet>

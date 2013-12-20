@@ -2,6 +2,6 @@
 	<content><![CDATA[shop
 		]]></content>
 		<tabTrigger>jqmsvg:shop</tabTrigger>
-		<description>jQuery Mobile 1.4: shopicon svg</description>
+		<description>jqm1.4: shopicon svg</description>
 		<scope>text.html</scope>
 	</snippet>

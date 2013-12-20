@@ -2,6 +2,6 @@
 	<content><![CDATA[arrow-l
 		]]></content>
 		<tabTrigger>jqmsvg:arrow-l</tabTrigger>
-		<description>jQuery Mobile 1.4: arrow-licon svg</description>
+		<description>jqm1.4: arrow-licon svg</description>
 		<scope>text.html</scope>
 	</snippet>

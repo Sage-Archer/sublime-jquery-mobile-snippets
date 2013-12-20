@@ -2,6 +2,6 @@
 	<content><![CDATA[grid
 		]]></content>
 		<tabTrigger>jqmsvg:grid</tabTrigger>
-		<description>jQuery Mobile 1.4: gridicon svg</description>
+		<description>jqm1.4: gridicon svg</description>
 		<scope>text.html</scope>
 	</snippet>

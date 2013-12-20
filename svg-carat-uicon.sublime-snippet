@@ -2,6 +2,6 @@
 	<content><![CDATA[carat-u
 		]]></content>
 		<tabTrigger>jqmsvg:carat-u</tabTrigger>
-		<description>jQuery Mobile 1.4: carat-uicon svg</description>
+		<description>jqm1.4: carat-uicon svg</description>
 		<scope>text.html</scope>
 	</snippet>

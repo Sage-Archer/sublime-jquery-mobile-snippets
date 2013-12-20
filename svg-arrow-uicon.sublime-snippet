@@ -2,6 +2,6 @@
 	<content><![CDATA[arrow-u
 		]]></content>
 		<tabTrigger>jqmsvg:arrow-u</tabTrigger>
-		<description>jQuery Mobile 1.4: arrow-uicon svg</description>
+		<description>jqm1.4: arrow-uicon svg</description>
 		<scope>text.html</scope>
 	</snippet>

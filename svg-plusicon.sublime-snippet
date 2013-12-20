@@ -2,6 +2,6 @@
 	<content><![CDATA[plus
 		]]></content>
 		<tabTrigger>jqmsvg:plus</tabTrigger>
-		<description>jQuery Mobile 1.4: plusicon svg</description>
+		<description>jqm1.4: plusicon svg</description>
 		<scope>text.html</scope>
 	</snippet>

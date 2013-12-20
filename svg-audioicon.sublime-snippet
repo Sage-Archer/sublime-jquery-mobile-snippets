@@ -2,6 +2,6 @@
 	<content><![CDATA[audio
 		]]></content>
 		<tabTrigger>jqmsvg:audio</tabTrigger>
-		<description>jQuery Mobile 1.4: audioicon svg</description>
+		<description>jqm1.4: audioicon svg</description>
 		<scope>text.html</scope>
 	</snippet>

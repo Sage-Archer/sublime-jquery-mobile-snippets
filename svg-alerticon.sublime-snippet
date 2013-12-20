@@ -2,6 +2,6 @@
 	<content><![CDATA[alert
 		]]></content>
 		<tabTrigger>jqmsvg:alert</tabTrigger>
-		<description>jQuery Mobile 1.4: alerticon svg</description>
+		<description>jqm1.4: alerticon svg</description>
 		<scope>text.html</scope>
 	</snippet>

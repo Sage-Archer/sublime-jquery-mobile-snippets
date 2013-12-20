@@ -2,6 +2,6 @@
 	<content><![CDATA[search
 		]]></content>
 		<tabTrigger>jqmsvg:search</tabTrigger>
-		<description>jQuery Mobile 1.4: searchicon svg</description>
+		<description>jqm1.4: searchicon svg</description>
 		<scope>text.html</scope>
 	</snippet>

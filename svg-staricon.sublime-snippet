@@ -2,6 +2,6 @@
 	<content><![CDATA[star
 		]]></content>
 		<tabTrigger>jqmsvg:star</tabTrigger>
-		<description>jQuery Mobile 1.4: staricon svg</description>
+		<description>jqm1.4: staricon svg</description>
 		<scope>text.html</scope>
 	</snippet>

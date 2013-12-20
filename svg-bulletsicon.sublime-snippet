@@ -2,6 +2,6 @@
 	<content><![CDATA[bullets
 		]]></content>
 		<tabTrigger>jqmsvg:bullets</tabTrigger>
-		<description>jQuery Mobile 1.4: bulletsicon svg</description>
+		<description>jqm1.4: bulletsicon svg</description>
 		<scope>text.html</scope>
 	</snippet>

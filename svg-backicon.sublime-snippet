@@ -2,6 +2,6 @@
 	<content><![CDATA[back
 		]]></content>
 		<tabTrigger>jqmsvg:back</tabTrigger>
-		<description>jQuery Mobile 1.4: backicon svg</description>
+		<description>jqm1.4: backicon svg</description>
 		<scope>text.html</scope>
 	</snippet>

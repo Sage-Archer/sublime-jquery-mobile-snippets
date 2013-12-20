@@ -2,6 +2,6 @@
 	<content><![CDATA[navigation
 		]]></content>
 		<tabTrigger>jqmsvg:navigation</tabTrigger>
-		<description>jQuery Mobile 1.4: navigationicon svg</description>
+		<description>jqm1.4: navigationicon svg</description>
 		<scope>text.html</scope>
 	</snippet>

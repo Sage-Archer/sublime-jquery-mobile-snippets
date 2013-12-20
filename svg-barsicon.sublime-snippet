@@ -2,6 +2,6 @@
 	<content><![CDATA[bars
 		]]></content>
 		<tabTrigger>jqmsvg:bars</tabTrigger>
-		<description>jQuery Mobile 1.4: barsicon svg</description>
+		<description>jqm1.4: barsicon svg</description>
 		<scope>text.html</scope>
 	</snippet>

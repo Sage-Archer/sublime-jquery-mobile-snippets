@@ -2,6 +2,6 @@
 	<content><![CDATA[video
 		]]></content>
 		<tabTrigger>jqmsvg:video</tabTrigger>
-		<description>jQuery Mobile 1.4: videoicon svg</description>
+		<description>jqm1.4: videoicon svg</description>
 		<scope>text.html</scope>
 	</snippet>

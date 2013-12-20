@@ -2,6 +2,6 @@
 	<content><![CDATA[camera
 		]]></content>
 		<tabTrigger>jqmsvg:camera</tabTrigger>
-		<description>jQuery Mobile 1.4: cameraicon svg</description>
+		<description>jqm1.4: cameraicon svg</description>
 		<scope>text.html</scope>
 	</snippet>

@@ -2,6 +2,6 @@
 	<content><![CDATA[lock
 		]]></content>
 		<tabTrigger>jqmsvg:lock</tabTrigger>
-		<description>jQuery Mobile 1.4: lockicon svg</description>
+		<description>jqm1.4: lockicon svg</description>
 		<scope>text.html</scope>
 	</snippet>

@@ -2,6 +2,6 @@
 	<content><![CDATA[forbidden
 		]]></content>
 		<tabTrigger>jqmsvg:forbidden</tabTrigger>
-		<description>jQuery Mobile 1.4: forbiddenicon svg</description>
+		<description>jqm1.4: forbiddenicon svg</description>
 		<scope>text.html</scope>
 	</snippet>
