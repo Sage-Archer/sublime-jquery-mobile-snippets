@@ -7,24 +7,30 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="apple-mobile-web-app-capable" content="yes" />
-	<link rel="stylesheet" href="http://code.jquery.com/mobile/1.0.1/jquery.mobile-1.0.1.min.css" />
-	<script src="http://code.jquery.com/jquery-1.6.4.min.js"></script>
-	<script src="http://code.jquery.com/mobile/1.0.1/jquery.mobile-1.0.1.min.js"></script>
+	<link rel="stylesheet" href="//code.jquery.com/mobile/1.4.0/jquery.mobile-1.4.0.min.css" />
+	<script src="//code.jquery.com/jquery-2.0.3.min.js"></script>
+	<script>
+		\$(document).on("mobileinit", function(){
+			/*
+			apply overrides here
+			example:
+			\$.mobile.activeBtnClass = "my-class";
+			*/
+			\$.mobile.defaultPageTransition = "slide";
+			\$.mobile.buttonMarkup.hoverDelay = 100;
+			\$.mobile.pageLoadErrorMessage = "Pagina kon niet geladen worden";
+		});
+	</script>
+	<script src="//code.jquery.com/mobile/1.4.0/jquery.mobile-1.4.0.min.js"></script>
 </head>
 <body>
-<section data-role="page">
+<section data-role="page" id="home">
 	<header data-role="header">
 		<h1>Page header</h1>
-		<nav data-role="navbar">
-			<ul>
-				 <li><a href="#">item1</a></li>
-				 <li><a href="#">item2</a></li>
-				 <li><a href="#">item3</a></li>
-			</ul>
-		</nav>
 	</header><!-- /header -->
-	<article data-role="content">
+	<article data-role="content" class="ui-content">
 		<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.</p>
+		<a href="#" class="ui-btn">next</a>
 		<ul data-role="listview">
 			<li><a href="#">item1</a></li>
 			<li><a href="#">item2</a></li>
@@ -35,6 +41,25 @@
 		<h4>Page footer</h4>
 	</footer><!-- /footer -->
 </section><!-- /page -->
+
+<section data-role="page" id="next">
+	<header data-role="header">
+		<h1>Page header</h1>
+	</header><!-- /header -->
+	<article data-role="content" class="ui-content">
+		<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.</p>
+		<a href="#" class="ui-btn">home</a>
+		<ul data-role="listview">
+			<li><a href="#">item1</a></li>
+			<li><a href="#">item2</a></li>
+			<li><a href="#">item3</a></li>
+		</ul>
+	</article><!-- /content -->
+	<footer data-role="footer">
+		<h4>Page footer</h4>
+	</footer><!-- /footer -->
+</section><!-- /page -->
+
 </body>
 </html>
 ]]></content>
