@@ -1,12 +1,12 @@
 <snippet>
 	<content><![CDATA[
 <div data-role="controlgroup" data-type="horizontal">
-	<a href="${1:#}" data-role="button">${2:button1}</a>
-	<a href="${3:#}" data-role="button">${4:button2}</a>
-	<a href="${5:#}" data-role="button">${6:button3}</a>
+	<a href="${1:#}" class="ui-btn ui-corner-all">${2:button1}</a>
+	<a href="${3:#}" class="ui-btn ui-corner-all">${4:button2}</a>
+	<a href="${5:#}" class="ui-btn ui-corner-all">${6:button3}</a>
 </div>
 ]]></content>
 	<tabTrigger>jqmcontrolgroup:h</tabTrigger>
-	<description>jQuery Mobile: Horizontal control group buttons</description>
+	<description>jQuery Mobile 1.4: Horizontal control group buttons</description>
 	<scope>text.html</scope>
 </snippet>

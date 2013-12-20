@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-<a href="${1:#}" data-role="button" data-icon="${2:home}" data-iconpos="${3:right}">${4:button}</a>
+<a href="${1:#}" class="ui-btn ui-icon-${2:delete} ui-btn-icon-${3:right}">${4:button}</a>
 ]]></content>
 	<tabTrigger>jqmnbutton:ip</tabTrigger>
-	<description>jQuery Mobile: Link button with a positioned icon</description>
+	<description>jQuery Mobile 1.4: Link button with a positioned icon</description>
 	<scope>text.html</scope>
 </snippet>
