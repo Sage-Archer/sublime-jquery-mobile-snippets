@@ -3,7 +3,7 @@
 Revised jQuery Mobile Snippets for Sublime Text, updated to jQuery Mobile version 1.4. A Christmas gift from MobPro :) (http://mobpro.com/)
 
 ## Authors
-* Edwin Metselaar (User:emetselaar)
+* Edwin Metselaar (User: emetselaar)
 * Daniel van der Ende (@danielvdende)
 
 ## Acknowledgements
