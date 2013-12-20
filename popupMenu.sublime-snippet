@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+		<a href="#${1:popupMenu}" data-rel="popup" data-transition="slideup" class="ui-btn ui-corner-all ui-shadow ui-btn-inline ui-icon-gear ui-btn-icon-left ui-btn-a">Actions...</a>
+		<div data-role="popup" id="${1:popupMenu}" data-theme="a">
+			<ul data-role="listview" data-inset="true">
+				<li data-role="list-divider">Choose an action</li>
+				<li><a href="#">View details</a></li>
+				<li><a href="#">Edit</a></li>
+				<li><a href="#">Disable</a></li>
+				<li><a href="#">Delete</a></li>
+			</ul>
+		</div>
+]]></content>
+	<tabTrigger>jqmpanel</tabTrigger>
+	<description>jQuery Mobile 1.4: Popup Menu</description>
+	<scope>text.html</scope>
+</snippet>
+
+
