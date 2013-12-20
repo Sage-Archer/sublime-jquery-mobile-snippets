@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[calendar
+		]]></content>
+		<tabTrigger>jqmsvg:calendar</tabTrigger>
+		<description>jQuery Mobile 1.4: calendaricon svg</description>
+		<scope>text.html</scope>
+	</snippet>

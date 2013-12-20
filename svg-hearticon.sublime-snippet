@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[heart
+		]]></content>
+		<tabTrigger>jqmsvg:heart</tabTrigger>
+		<description>jQuery Mobile 1.4: hearticon svg</description>
+		<scope>text.html</scope>
+	</snippet>

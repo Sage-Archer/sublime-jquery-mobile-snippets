@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[carat-d
+		]]></content>
+		<tabTrigger>jqmsvg:carat-d</tabTrigger>
+		<description>jQuery Mobile 1.4: carat-dicon svg</description>
+		<scope>text.html</scope>
+	</snippet>

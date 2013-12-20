@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[edit
+		]]></content>
+		<tabTrigger>jqmsvg:edit</tabTrigger>
+		<description>jQuery Mobile 1.4: editicon svg</description>
+		<scope>text.html</scope>
+	</snippet>

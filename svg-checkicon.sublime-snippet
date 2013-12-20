@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[check
+		]]></content>
+		<tabTrigger>jqmsvg:check</tabTrigger>
+		<description>jQuery Mobile 1.4: checkicon svg</description>
+		<scope>text.html</scope>
+	</snippet>

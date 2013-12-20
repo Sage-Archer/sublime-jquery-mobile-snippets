@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[mail
+		]]></content>
+		<tabTrigger>jqmsvg:mail</tabTrigger>
+		<description>jQuery Mobile 1.4: mailicon svg</description>
+		<scope>text.html</scope>
+	</snippet>

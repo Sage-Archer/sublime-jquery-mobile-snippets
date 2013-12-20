@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[comment
+		]]></content>
+		<tabTrigger>jqmsvg:comment</tabTrigger>
+		<description>jQuery Mobile 1.4: commenticon svg</description>
+		<scope>text.html</scope>
+	</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[forward
+		]]></content>
+		<tabTrigger>jqmsvg:forward</tabTrigger>
+		<description>jQuery Mobile 1.4: forwardicon svg</description>
+		<scope>text.html</scope>
+	</snippet>

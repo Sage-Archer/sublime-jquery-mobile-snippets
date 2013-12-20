@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[gear
+		]]></content>
+		<tabTrigger>jqmsvg:gear</tabTrigger>
+		<description>jQuery Mobile 1.4: gearicon svg</description>
+		<scope>text.html</scope>
+	</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[eye
+		]]></content>
+		<tabTrigger>jqmsvg:eye</tabTrigger>
+		<description>jQuery Mobile 1.4: eyeicon svg</description>
+		<scope>text.html</scope>
+	</snippet>

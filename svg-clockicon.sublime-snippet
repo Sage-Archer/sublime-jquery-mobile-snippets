@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[clock
+		]]></content>
+		<tabTrigger>jqmsvg:clock</tabTrigger>
+		<description>jQuery Mobile 1.4: clockicon svg</description>
+		<scope>text.html</scope>
+	</snippet>

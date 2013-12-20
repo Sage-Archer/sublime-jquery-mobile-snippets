@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[refresh
+		]]></content>
+		<tabTrigger>jqmsvg:refresh</tabTrigger>
+		<description>jQuery Mobile 1.4: refreshicon svg</description>
+		<scope>text.html</scope>
+	</snippet>

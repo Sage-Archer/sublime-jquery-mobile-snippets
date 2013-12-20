@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[minus
+		]]></content>
+		<tabTrigger>jqmsvg:minus</tabTrigger>
+		<description>jQuery Mobile 1.4: minusicon svg</description>
+		<scope>text.html</scope>
+	</snippet>

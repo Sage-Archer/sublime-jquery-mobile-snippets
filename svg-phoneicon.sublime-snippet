@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[phone
+		]]></content>
+		<tabTrigger>jqmsvg:phone</tabTrigger>
+		<description>jQuery Mobile 1.4: phoneicon svg</description>
+		<scope>text.html</scope>
+	</snippet>

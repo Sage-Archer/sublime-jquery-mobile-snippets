@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[cloud
+		]]></content>
+		<tabTrigger>jqmsvg:cloud</tabTrigger>
+		<description>jQuery Mobile 1.4: cloudicon svg</description>
+		<scope>text.html</scope>
+	</snippet>

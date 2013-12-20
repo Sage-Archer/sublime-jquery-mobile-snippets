@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[location
+		]]></content>
+		<tabTrigger>jqmsvg:location</tabTrigger>
+		<description>jQuery Mobile 1.4: locationicon svg</description>
+		<scope>text.html</scope>
+	</snippet>

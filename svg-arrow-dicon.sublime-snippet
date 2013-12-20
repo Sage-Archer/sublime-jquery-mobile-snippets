@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[arrow-d
+		]]></content>
+		<tabTrigger>jqmsvg:arrow-d</tabTrigger>
+		<description>jQuery Mobile 1.4: arrow-dicon svg</description>
+		<scope>text.html</scope>
+	</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[info
+		]]></content>
+		<tabTrigger>jqmsvg:info</tabTrigger>
+		<description>jQuery Mobile 1.4: infoicon svg</description>
+		<scope>text.html</scope>
+	</snippet>

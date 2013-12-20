@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[delete
+		]]></content>
+		<tabTrigger>jqmsvg:delete</tabTrigger>
+		<description>jQuery Mobile 1.4: deleteicon svg</description>
+		<scope>text.html</scope>
+	</snippet>
