@@ -1,17 +1,17 @@
 <snippet>
 	<content><![CDATA[
 		<style>
-            .tablist-left {
-                width: 25%;
-                display: inline-block;
-            }
-            .tablist-content {
-                width: 60%;
-                display: inline-block;
-                vertical-align: top;
-                margin-left: 5%;
-            }
-        </style>
+			.tablist-left {
+			width: 25%;
+			display: inline-block;
+			}
+			.tablist-content {
+			width: 60%;
+			display: inline-block;
+			vertical-align: top;
+			margin-left: 5%;
+			}
+		</style>
 		<div data-role="tabs" id="{1:tabs}">
 			<ul data-role="listview" data-inset="true" class="tablist-left">
 				<li><a href="#${2:one}" data-ajax="false">${2:one}</a></li>
