@@ -1,0 +1,36 @@
+<snippet>
+	<content><![CDATA[
+		<style>
+            .tablist-left {
+                width: 25%;
+                display: inline-block;
+            }
+            .tablist-content {
+                width: 60%;
+                display: inline-block;
+                vertical-align: top;
+                margin-left: 5%;
+            }
+        </style>
+		<div data-role="tabs" id="{1:tabs}">
+			<ul data-role="listview" data-inset="true" class="tablist-left">
+				<li><a href="#${2:one}" data-ajax="false">${2:one}</a></li>
+				<li><a href="#${3:two}" data-ajax="false">${3:two}</a></li>
+				<li><a href="#${4:three}" data-ajax="false">${4:three}</a></li>
+			</ul>
+			<div id="${2:one}" class="ui-body-d tablist-content">
+				<h1>First tab contents</h1>
+			</div>
+			<div id="${3:two}" class="ui-body-d tablist-content">
+				<h1>Second tab contents</h1>
+			</div>
+			<div id="${4:three}" class="ui-body-d tablist-content">
+				<h1>Third tab contents</h1>
+			</div>
+		</div>		
+]]></content>
+	<tabTrigger>jqmvertabs</tabTrigger>
+	<description>jQuery Mobile 1.4: verticalTabs</description>
+	<scope>text.html</scope>
+</snippet>
+

@@ -19,7 +19,7 @@
 		  </div>
 		</div>		
 ]]></content>
-	<tabTrigger>jqmtabs</tabTrigger>
-	<description>jQuery Mobile 1.4: Tabs</description>
+	<tabTrigger>jqmhortabs</tabTrigger>
+	<description>jQuery Mobile 1.4: horizontalTabs</description>
 	<scope>text.html</scope>
 </snippet>
