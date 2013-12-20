@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<div data-role="fieldcontain">
+<div class="ui-field-contain">
 	<fieldset data-role="controlgroup">
 		<legend>${1:Legend}</legend>
 		${2}
@@ -8,6 +8,6 @@
 </div>
 ]]></content>
 	<tabTrigger>jqmfieldcontain</tabTrigger>
-	<description>jQuery Mobile: Field Contain</description>
+	<description>jQuery Mobile 1.4: Field Contain</description>
 	<scope>text.html</scope>
 </snippet>

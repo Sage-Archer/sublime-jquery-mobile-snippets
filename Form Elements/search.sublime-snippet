@@ -1,11 +1,9 @@
 <snippet>
 	<content><![CDATA[
-<div data-role="fieldcontain">
-	<label for="${1}">${2:label}</label>
-	<input type="search" name="${1}" id="${1}" value="" />
-</div>
+	<label for="${1:searchBox}">${2:label}</label>
+	<input type="search" name="${1:searchBox}" id="${1:searchBox}" value="" />
 ]]></content>
 	<tabTrigger>jqmsearch</tabTrigger>
-	<description>jQuery Mobile: Search input</description>
+	<description>jQuery Mobile 1.4: Search input</description>
 	<scope>text.html</scope>
 </snippet>

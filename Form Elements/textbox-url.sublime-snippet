@@ -1,11 +1,11 @@
 <snippet>
 	<content><![CDATA[
 <div data-role="fieldcontain">
-	<label for="${1:url}">${2:label}</label>
-	<input type="url" name="${1}" id="${1}" value="" />
+	<label for="${1:urlBox}">${2:label}</label>
+	<input type="url" name="${1:urlBox}" id="${1:urlBox}" value="" />
 </div>
 ]]></content>
 	<tabTrigger>jqminput:u</tabTrigger>
-	<description>jQuery Mobile: Url input field</description>
+	<description>jQuery Mobile 1.4: Url input field</description>
 	<scope>text.html</scope>
 </snippet>
