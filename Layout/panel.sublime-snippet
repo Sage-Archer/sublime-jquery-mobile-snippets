@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+		<div data-role="panel" id="${1:panel}" data-theme="a" class="ui-panel ui-panel-position-${2:left} ui-panel-display-${3:reveal} ui-body-a ui-panel-animate">
+	</div>
+]]></content>
+	<tabTrigger>jqmpanel</tabTrigger>
+	<description>jQuery Mobile 1.4: Side panel</description>
+	<scope>text.html</scope>
+</snippet>
