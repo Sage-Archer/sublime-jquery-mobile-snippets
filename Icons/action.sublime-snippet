@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-action
-]]></content>
-	<tabTrigger>jqmsvg:action</tabTrigger>
-	<description>jQuery Mobile 1.4: action icon svg</description>
-	<scope>text.html</scope>
-</snippet>
