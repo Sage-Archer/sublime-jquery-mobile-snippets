@@ -7,6 +7,6 @@
 </ul>
 ]]></content>
 	<tabTrigger>jqmlistview:i</tabTrigger>
-	<description>jQuery Mobile: Listview with inset</description>
+	<description>jQuery Mobile 1.4: Listview with inset</description>
 	<scope>text.html</scope>
 </snippet>

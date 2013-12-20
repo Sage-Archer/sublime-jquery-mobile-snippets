@@ -7,6 +7,6 @@
 </ul>
 ]]></content>
 	<tabTrigger>jqmlistview:r</tabTrigger>
-	<description>jQuery Mobile: Readonly listview</description>
+	<description>jQuery Mobile 1.4: Readonly listview</description>
 	<scope>text.html</scope>
 </snippet>

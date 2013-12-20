@@ -1,9 +1,6 @@
 <snippet>
 	<content><![CDATA[
 <ul data-role="listview">
-	<li><a href="${1:#}">${2:item1}</a></li>
-	<li><a href="${3:#}">${4:item2}</a></li>
-	<li><a href="${5:#}">${6:item3}</a></li>
 	<ul data-role="listview">
 		<li>
 			<img src="images/album-bb.jpg" />
@@ -20,9 +17,8 @@
 			<h3>Wolfgang Amadeus Phoenix</h3>
 			<p>Phoenix</p>
 		</li>
-	</ul>
 </ul>]]></content>
-	<tabTrigger>jqmlistview:t</tabTrigger>
-	<description>jQuery Mobile: Basic listview</description>
+	<tabTrigger>jqmlistview:tt</tabTrigger>
+	<description>jQuery Mobile 1.4:Listview with thumbnails</description>
 	<scope>text.html</scope>
 </snippet>

@@ -7,6 +7,6 @@
 </ul>
 ]]></content>
 	<tabTrigger>jqmlistview</tabTrigger>
-	<description>jQuery Mobile: Listview</description>
+	<description>jQuery Mobile 1.4: Listview</description>
 	<scope>text.html</scope>
 </snippet>
