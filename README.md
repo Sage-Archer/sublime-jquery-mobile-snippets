@@ -1,6 +1,6 @@
 # jQuery-Mobile-1.4-Snippets
 
-Revised jQuery Mobile Snippets for Sublime Text, updated to jQuery Mobile version 1.4. A Christmas gift from MobPro :) (http://mobpro.com/)
+Revised jQuery Mobile Snippets for Sublime Text, updated to jQuery Mobile version 1.4. A Christmas gift from [MobPro](http://mobpro.com/)  :)
 
 ## Authors
 * Edwin Metselaar ([emetselaar](https://github.com/emetselaar))
