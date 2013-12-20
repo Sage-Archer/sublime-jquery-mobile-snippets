@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<nav data-role="navbar">${1}</nav>
+]]></content>
+	<tabTrigger>jqmnavbar</tabTrigger>
+	<description>jQuery Mobile: Navigation bar</description>
+	<scope>text.html</scope>
+</snippet>
