@@ -1,8 +1,9 @@
 <snippet>
 	<content><![CDATA[
-<a href="${1:#}" data-role="button" data-inline="true" data-rel="dialog" data-transition="pop">${2:Open dialog}</a>
+<a href="${1:#}" data-role="button" class="ui-shadow ui-btn ui-corner-all ui-btn-inline" data-transition="pop">${2:Open dialog}</a>
+<!-- add data-dialog="true" to your dialog page -->
 ]]></content>
 	<tabTrigger>jqmdialog</tabTrigger>
-	<description>jQuery Mobile: Dialog</description>
+	<description>jQuery Mobile 1.4: Dialog</description>
 	<scope>text.html</scope>
 </snippet>
